@@ -1,1 +1,2 @@
-hello, I'm a text file 
+hello, I'm a text file
+I got edited just now!
